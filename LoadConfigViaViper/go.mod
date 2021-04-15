@@ -1,4 +1,4 @@
-module github.com/FriedrichWilken/TinyGoExamples/LoadConfigViaViper
+module github.com/friedrichwilken/tinygoexamples/loadconfigviaviper
 
 go 1.16
 

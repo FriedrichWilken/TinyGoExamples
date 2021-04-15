@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/FriedrichWilken/TinyGoExamples/LoadConfigViaViper/config"
+	"github.com/friedrichwilken/tinygoexamples/loadconfigviaviper/config"
 )
 
 func main() {

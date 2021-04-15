@@ -1,4 +1,4 @@
 get:
-	go get github.com/spf13/viper
+	go mod download
 run:
 	go run main.go
